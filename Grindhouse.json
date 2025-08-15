@@ -1,8 +1,8 @@
 {
 	"Name": "",
-	"Version": 1755103771,
+	"Version": 1755222666,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "",
+	"GlobalNotes": "No duplicate perks allowed.\nOne person from the survivor team can bring one item only. The item can be any rarity with any add-ons.",
 	"Tiers": [
 		{
 			"Name": "General",
